@@ -8,7 +8,7 @@ In this challenge, we review some basic concepts that will get you started with 
 
 ### Task:
 
-To complete this challenge, you must save a line of input from stdin to a variable, print 'Hello, World.' on a single line, and finally print the value of your variable on a second line.
+To complete this challenge, you must save a line of input from stdin to a variable, print `Hello, World.` on a single line, and finally print the value of your variable on a second line.
 
 You've got this!
 
@@ -31,7 +31,7 @@ Welcome to 30 Days of Code!
 
 ### Explanation:
 
-On the first line, we print the string literal 'Hello, World.'. On the second line, we print the contents of the 'inputString' variable which, for this sample case, happens to be Welcome to 30 Days of Code!. If you do not print the variable's contents to stdout, you will not pass the hidden test case.
+On the first line, we print the string literal `Hello, World.`. On the second line, we print the contents of the `inputString` variable which, for this sample case, happens to be Welcome to 30 Days of Code!. If you do not print the variable's contents to stdout, you will not pass the hidden test case.
 
 ## Day 1: Data Types
 
@@ -64,15 +64,15 @@ Print the sum of both integers on the first line, the sum of both doubles (scale
 
 ### Sample Input:
 
-`12`
-`4.0`
-`is the best place to learn and practice coding!`
+`12`.
+`4.0`.
+`is the best place to learn and practice coding!`.
 
 ### Sample Output:
 
-`16`
-`8.0`
-`HackerRank is the best place to learn and practice coding!`
+`16`.
+`8.0`.
+`HackerRank is the best place to learn and practice coding!`.
 
 ### Explanation:
 
