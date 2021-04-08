@@ -23,7 +23,7 @@ function readLine() {
 }
 
 // < ------------------------ My Solution Starts Here ------------------------ >
-// Complete the solve function below.
+
 function solve(meal_cost, tip_percent, tax_percent) {
   let tip = (tip_percent / 100) * meal_cost;
   let tax = (tax_percent / 100) * meal_cost;

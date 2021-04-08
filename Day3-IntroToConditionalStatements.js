@@ -37,5 +37,6 @@ function main() {
   // < ------------------------ My Solution Ends Here ------------------------ >
 }
 
-// Most siccinct version I could find:
-// console.log( N % 2 === 1 || N > 5 && N < 21 ? 'Weird' : "Not Weird" );
+// < -------------- A siccinct version I found on HackerRank ------------------>
+
+console.log(N % 2 === 1 || N > 5 && N < 21 ? 'Weird' : "Not Weird");

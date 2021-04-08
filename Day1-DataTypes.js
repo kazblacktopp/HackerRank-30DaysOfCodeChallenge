@@ -24,20 +24,19 @@ function main() {
   var d = 4.0
   var s = "HackerRank "
   // < ----------------------- My Solution Starts Here ----------------------- >
-  // Declare second integer, double, and String variables.
+
   let int;
   let doub;
   let str;
-  // Read and save an integer, double, and String to your variables.
+
   int = parseInt(readLine());
   doub = parseFloat(readLine());
   str = String(readLine());
-  // Print the sum of both integer variables on a new line.
+
   console.log(i + int);
-  // Print the sum of the double variables on a new line.
+
   console.log((d + doub).toFixed(1));
-  // Concatenate and print the String variables on a new line
-  // The 's' variable above should be printed first.
+
   console.log(s + str);
   // < ------------------------ My Solution Ends Here ------------------------ >
 }

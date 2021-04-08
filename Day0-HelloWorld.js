@@ -3,9 +3,9 @@ function processData(inputString) {
   console.log("Hello, World.");
 
   // < ----------------------- My Solution Starts Here ----------------------- >
-  // Write the second line of output that prints the contents of 'inputString'
-  // here.
+
   console.log(inputString);
+
   // < ------------------------ My Solution Ends Here ------------------------ >
 }
 
