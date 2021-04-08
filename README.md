@@ -36,6 +36,7 @@ Feel free to reuse any part of the code snippets that I've written or, better ye
 Happy coding! 🚀
 
 ## Day 0: Hello World
+[(Back to top)](#hi--welcome-to-my-coding-challenge-solutions-for-hackerranks-30-days-of-code-challenge)
 
 ### Objective:
 
@@ -73,6 +74,7 @@ On the first line, we print the string literal `Hello, World.`. On the second li
 Good luck and happy coding! 🚀
 
 ## Day 1: Data Types
+[(Back to top)](#hi--welcome-to-my-coding-challenge-solutions-for-hackerranks-30-days-of-code-challenge)
 
 ### Objective:
 
@@ -128,6 +130,7 @@ You will not pass this challenge if you attempt to assign the Sample Case values
 Good luck and happy coding! 🚀
 
 ## Day 2: Operators
+[(Back to top)](#hi--welcome-to-my-coding-challenge-solutions-for-hackerranks-30-days-of-code-challenge)
 
 ### Objective:
 
@@ -202,6 +205,7 @@ We round `total_cost` to the nearest integer and print the result, `15`.
 Good luck and happy coding! 🚀
 
 ## Day 3: Intro to Conditional Statements
+[(Back to top)](#hi--welcome-to-my-coding-challenge-solutions-for-hackerranks-30-days-of-code-challenge)
 
 ### Objective:
 
@@ -265,6 +269,7 @@ Sample Case 1: `n = 24`
 Good luck and happy coding! 🚀
 
 ## Coming Soon!
+[(Back to top)](#hi--welcome-to-my-coding-challenge-solutions-for-hackerranks-30-days-of-code-challenge)
 
 ### Day 4: Class Vs. Instance
 ### Day 5: Loops
