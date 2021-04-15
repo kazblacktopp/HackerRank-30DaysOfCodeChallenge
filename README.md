@@ -11,7 +11,7 @@ Below you will find the instructions for all the coding challenges that I have s
 [Day 2](#day-2-operators): Operators <br>
 [Day 3](#day-3-intro-to-conditional-statements): Intro to Conditional Statements <br>
 [Day 4](#day-4-class-vs-instance): Class Vs. Instance <br>
-[Day 5](#day-5-loops): Loops (Comming Soon!) <br>
+[Day 5](#day-5-loops): Loops <br>
 [Day 6](#day-6-lets-review): Let's Review (Coming Soon!)
 
 #### Each days coding challenge instruction contains:
